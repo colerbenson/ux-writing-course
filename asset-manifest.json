@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ux-writing-course/static/css/main.8e4029e5.css",
+    "main.js": "/ux-writing-course/static/js/main.df7a408f.js",
+    "index.html": "/ux-writing-course/index.html",
+    "main.8e4029e5.css.map": "/ux-writing-course/static/css/main.8e4029e5.css.map",
+    "main.df7a408f.js.map": "/ux-writing-course/static/js/main.df7a408f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e4029e5.css",
+    "static/js/main.df7a408f.js"
+  ]
+}
